@@ -82,7 +82,7 @@ body {
 
 .header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("/images/header.jpg");
+    url("images/header.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -222,17 +222,17 @@ nav {
 
 .about__card:nth-child(1) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/images/about-1.jpg");
+    url("images/about-1.jpg");
 }
 
 .about__card:nth-child(2) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/images/about-2.jpg");
+    url("images/about-2.jpg");
 }
 
 .about__card:nth-child(3) {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/images/about-3.jpg");
+    url("images/about-3.jpg");
 }
 
 .about__card p {
